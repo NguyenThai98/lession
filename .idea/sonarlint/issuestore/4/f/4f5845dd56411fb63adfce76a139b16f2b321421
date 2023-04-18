@@ -1,0 +1,10 @@
+
+t
+java:S2177"WRename this method; there is a "private" method in the parent class with the same name.(Ò±–Š8û²âîï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÈĞï8ÖÄ·îï0
+H
+java:S1172"&Remove these unused method parameters.(ˆÓÁ³ıÿÿÿÿ8æ‹ÿîï0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø8¯Åïïï0
+H
+java:S1172"&Remove these unused method parameters.(  ‰×şÿÿÿÿ8¯Åïïï0
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ÚÈĞï8æ‹ÿîï0

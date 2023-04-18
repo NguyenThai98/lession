@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™ñÔÊ8çÁŠ¼ğ0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(í¾ÀÒùÿÿÿÿ8¦ƒÅÏğ0
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¿”Q8çÁŠ¼ğ0
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¢Ì˜8ƒÊÇÏğ0
+[
+java:S1854o">Remove this useless assignment to local variable "insertNode".(Æ¢‚Û8¦ƒÅÏğ0

@@ -1,0 +1,4 @@
+SỬ DỤNG IF ELSE THÌ NÊN CHIA LÀM 2
+
+
+short-circuit evaluation

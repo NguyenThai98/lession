@@ -1,0 +1,12 @@
+
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ûÙ¹”8€††ïï0
+Q
+java:S1610"4Convert the abstract class "Deer" into an interface.(ºÊ„ç8¸¨†ïï0
+L
+java:S1172"*Remove this unused method parameter "age".(ë Èåıÿÿÿÿ8ƒšôîï0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ë Èåıÿÿÿÿ8ƒšôîï0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËÅËıûÿÿÿÿ8À¿„ïï0
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ËÅËıûÿÿÿÿ8¸¨†ïï0
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ë Èåıÿÿÿÿ8¸¨†ïï0
