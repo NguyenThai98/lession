@@ -1,12 +1,0 @@
-
-š
-java:S1130
-"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÞÒ‡ãüÿÿÿÿ8ðéß­õ0
-l
-java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(††ãÚ8Ô³à­õ0
-r
-java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Ì¸”Éúÿÿÿÿ8Ãˆà­õ0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ýØÔÖ8Ö¿ß­õ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£âÛÖüÿÿÿÿ8Ö¿ß­õ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(£¿®áøÿÿÿÿ8Ö¿ß­õ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹Î´Àüÿÿÿÿ8Ö¿ß­õ0

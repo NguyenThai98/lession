@@ -1,9 +1,0 @@
-
-F
-java:S1481
-")Remove this unused "temp" local variable.(úÍÚ†8´Ïäûğ0
-A
-java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ8¼ûæûğ0
-X	java:S125 "<This block of commented-out lines of code should be removed.(®ó…×8˜Œæûğ0
-O
-java:S1481"-Remove this unused "checkRow" local variable.(€Ó¿‡ûÿÿÿÿ8´Ïäûğ0

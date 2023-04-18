@@ -1,327 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="939c8e04-3284-4013-aa2e-b42a5c0aea43" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="45af96f1-b470-4540-8801-d95b754be229" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06fe34ca9396a021cb0aabd47e3d2d3d36625390" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07b00df791265fc362356b1fc333d174daf65e63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08e734310748c437b5b6027419357637f1cd335a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e55b43e82be2100ff4a68b82ba419d945a4e38b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/121936e5f402d645ee7fc335914aaa11e58d6ac5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15d2f19c07533f906cced5e578d83fd825712b6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1ac1f046618bde9d2d24276946e73d49fb768285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1beae802c0af551504f09b291617deba9581050d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/242bed1e796f46aafa29407a769a00fd8137d5fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29063777826a1b9121d7724a12dbd5d5fbe75d70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b372150ad79ae40b3c7936485767c38ba68a308" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/325ca421a2cdb18817b1303db6b3ada7f96eeae9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39134b21d91d28492dd02ac2d1e44898f839f5fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3acaa1484bb2bd308a1c2d0d35942b81b810235a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4cf98df3be248a9e2b55bb43045aa5b7b44bb400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f3741c860ad4ba5fe81312373cbeca28d197c5b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f5845dd56411fb63adfce76a139b16f2b321421" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/548b96e7050620c0e3dde095d49bbb977ccdf97d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5be5557aa4b1e463fcdbbdcce7d1502c443462a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/664cc4fc74bad2a4cc7eb0764cdca28fee303ee7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6baef41f2e3a914cf48c1f1411fb9eef995c1d14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d72c705a0c397a59d15cb0f4de858bf530b5055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74ab805ff026e8600b2b1d7498bd4fd98fdddc33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f7a463f64f46a94561ecac58d32bee5a3dd9d15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f7f3702feb1b15b29fc04e82612ea43882d6e08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fad6c7c31c6c8c5486ac1ee9c51d1617056163f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86bc7ab41ef10bba71314e77796ce6ec612fd48d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89922bb10ace1d0486e390b5221a424850a55d83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94307ad4eca749938f856b410c92869d311ec7ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b66f096202de42c9f7d1d30967de74b065e4898" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f8aa89ed1aeb56059abfab4cc479e793786fe00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fef6a8095a0b594756e0e2cfd391dd569be2c0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a152e1d7a0a5dce38fbba84eb2653df79c7ae3a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7ec8543accfe2d6a2983ca376f91efb9211e4c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a846a6ef5232ef9dbe60eb41dbaf98a75b385ee1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a95e6857eb16aa02895025969ee15ae806781678" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b000fd54b61d6d4759003d6121a81fbcd9a31835" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0bb24450650f1d5108b2cf3ddefa3db672f1dc6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b219b2470993f93bef9a361cc5305219ebe83937" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b274534cab4b5fd90ddef25ed7062303080594f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b30c9094d8de0309ca62d7d96aad736ad6598f06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b624448eab500f7b8c4b86eb41720de91e82b900" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba38b742f4874938b38f9ada5adb8313634643f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3559f12382c1a223c734a0e2d78505b24b975c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c413fe6bb1ef5aab16b850217e44b21fea88af5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6dbf8210afc1d1e03fe66addb44ba21beb268ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca1db05fbc6890bb4ef5f04efb5a8f56f689d51f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf88471dbc286bfa6b39e20169823c8f167fda90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d864114838baedeb0036d4fecc98781f4912c63a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2a62ca9b1ed4453d4297b20060fb21990698bfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd2cdc7a5cc4077786fef5d8892fa423212a8443" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff70ad230dd8cd72fe8c18e3e73ad6939e74130a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lession.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lession/META-INF/lession.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lession/bigo/nguyenthai/algorithm/oop/TestFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lession/bigo/nguyenthai/algorithm/oop/TestFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/TestFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/TestFunction.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="lession" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/TestFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/FilterInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="105" column="15" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/TestNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ProjectId" id="2ObIh3ajyKFg4Dd5RJ1VMeCkpE1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>954</find>
-      <find>996</find>
-      <find>count</find>
-      <find>maxRow</find>
-      <find>splitInput[0]</find>
-      <find>splitInput[1]</find>
-      <find>124563</find>
-      <find>toString</find>
-      <find>param</find>
-      <find>e</find>
-      <find>checkNumber</find>
-      <find>FlagStatusValid</find>
-      <find>get</find>
-      <find>FastFoodOrderBuilder</find>
-      <find>Function</find>
-      <find>Consumer</find>
-      <find>getBuf</find>
-      <find>buf</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>str0</replace>
-      <replace>str1</replace>
-      <replace />
-    </replaceStrings>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Lession01.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Lession09.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Grasshopper.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Reindeer.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Deer.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/FieldMask.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/MaskingText.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/LinkedListMain.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/NodeBst.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Condition.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Action.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Node.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/service.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/Condition.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/Service.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/Action.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/Flow.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/dto/ActionDto.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/action/ActionDto.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/condition/ConditionDto.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/impl/ActionImpl.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/tree/Node.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/tree/BstRun.java" />
-        <option value="$PROJECT_DIR$/BST.txt" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/NodeAction.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/tree/Bst.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Sorting.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/ZigZag.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Lession02.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Fractions.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Lession08.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/FlagStatusValid.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Test.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/BankAccount.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/OrderBuilder.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/FastFoodOrderBuilder.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/BreadType.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/OrderType.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/SauceType.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/VegetableType.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/Order.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/Bank.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/test.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/EnumSingleton.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/SingletonSerializedTest.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/SerializedSingleton.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/thread/CompletableFuture9.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/Function.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/TestNumber.java" />
-        <option value="$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/TestFunction.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="233" />
-    <option name="y" value="120" />
-    <option name="width" value="1448" />
-    <option name="height" value="776" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lession" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lession" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lession" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lession" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lession" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lession" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java/multi-threading/java" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="bigo.nguyenthai.algorithm" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project\Big-O\lession" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TestFunction">
-    <configuration name="CompletableFuture9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bigo.nguyenthai.algorithm.thread.CompletableFuture9" />
-      <module name="lession" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bigo.nguyenthai.algorithm.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Grasshopper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bigo.nguyenthai.algorithm.Grasshopper" />
-      <module name="lession" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bigo.nguyenthai.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingletonSerializedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bigo.nguyenthai.algorithm.oop.singleton.SingletonSerializedTest" />
-      <module name="lession" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bigo.nguyenthai.algorithm.oop.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
     <configuration name="TestFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bigo.nguyenthai.algorithm.oop.TestFunction" />
       <module name="lession" />
@@ -335,756 +107,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bigo.nguyenthai.algorithm.oop.test" />
-      <module name="lession" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bigo.nguyenthai.algorithm.oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.SingletonSerializedTest" />
-      <item itemvalue="Application.Grasshopper" />
-      <item itemvalue="Application.CompletableFuture9" />
-      <item itemvalue="Application.TestFunction" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestFunction" />
-        <item itemvalue="Application.CompletableFuture9" />
-        <item itemvalue="Application.SingletonSerializedTest" />
-        <item itemvalue="Application.Grasshopper" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="939c8e04-3284-4013-aa2e-b42a5c0aea43" name="Default Changelist" comment="" />
-      <created>1675424638629</created>
+      <changelist id="45af96f1-b470-4540-8801-d95b754be229" name="Changes" comment="" />
+      <created>1681822973449</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675424638629</updated>
-      <workItem from="1675424639800" duration="8380000" />
-      <workItem from="1675484385685" duration="100000" />
-      <workItem from="1675572159896" duration="2066000" />
-      <workItem from="1675609449448" duration="1584000" />
-      <workItem from="1675649683746" duration="75000" />
-      <workItem from="1675682035634" duration="8188000" />
-      <workItem from="1675695237811" duration="7072000" />
-      <workItem from="1675735722850" duration="639000" />
-      <workItem from="1675758547948" duration="717000" />
-      <workItem from="1675782621619" duration="3479000" />
-      <workItem from="1675841489523" duration="726000" />
-      <workItem from="1675865205023" duration="4337000" />
-      <workItem from="1675908326039" duration="1022000" />
-      <workItem from="1675948156705" duration="11209000" />
-      <workItem from="1675960609199" duration="494000" />
-      <workItem from="1675995474134" duration="1261000" />
-      <workItem from="1676032866816" duration="2574000" />
-      <workItem from="1676093280995" duration="167000" />
-      <workItem from="1676191452617" duration="4277000" />
-      <workItem from="1676201158379" duration="375000" />
-      <workItem from="1676288375655" duration="5104000" />
-      <workItem from="1676299978251" duration="6990000" />
-      <workItem from="1676339836147" duration="27000" />
-      <workItem from="1676368588589" duration="715000" />
-      <workItem from="1676379854858" duration="24000" />
-      <workItem from="1676390984496" duration="2390000" />
-      <workItem from="1676426200831" duration="649000" />
-      <workItem from="1676466060013" duration="3665000" />
-      <workItem from="1676511900043" duration="44000" />
-      <workItem from="1676559895214" duration="2541000" />
-      <workItem from="1676599107053" duration="196000" />
-      <workItem from="1676731929513" duration="7784000" />
-      <workItem from="1676776401115" duration="4638000" />
-      <workItem from="1676782233111" duration="385000" />
-      <workItem from="1676892077615" duration="8678000" />
-      <workItem from="1676945944939" duration="17000" />
-      <workItem from="1676983562508" duration="10927000" />
-      <workItem from="1677030858170" duration="12000" />
-      <workItem from="1677081175247" duration="6379000" />
-      <workItem from="1677117457990" duration="4004000" />
-      <workItem from="1677141573332" duration="2348000" />
-      <workItem from="1677166125126" duration="1529000" />
-      <workItem from="1677167895053" duration="2653000" />
-      <workItem from="1677170823541" duration="7079000" />
-      <workItem from="1677204312140" duration="628000" />
-      <workItem from="1677421484401" duration="7251000" />
-      <workItem from="1677463077656" duration="40000" />
-      <workItem from="1677497217415" duration="10080000" />
-      <workItem from="1677549671531" duration="19000" />
-      <workItem from="1677565919928" duration="1393000" />
-      <workItem from="1677589108201" duration="927000" />
-      <workItem from="1677590885012" duration="9027000" />
-      <workItem from="1677657421387" duration="2050000" />
-      <workItem from="1677943435688" duration="7571000" />
-      <workItem from="1678002009336" duration="12508000" />
-      <workItem from="1678016018241" duration="11000" />
-      <workItem from="1678204024343" duration="1893000" />
-      <workItem from="1678241464307" duration="52000" />
-      <workItem from="1679120313808" duration="19473000" />
-      <workItem from="1679211854632" duration="22243000" />
-      <workItem from="1679278282924" duration="96000" />
-      <workItem from="1679279446315" duration="22930000" />
-      <workItem from="1679320412212" duration="254000" />
-      <workItem from="1679364417066" duration="879000" />
-      <workItem from="1679365688287" duration="17157000" />
-      <workItem from="1679407469286" duration="12829000" />
-      <workItem from="1679451007772" duration="108000" />
-      <workItem from="1679451500870" duration="10485000" />
-      <workItem from="1679478163591" duration="1559000" />
-      <workItem from="1679498999262" duration="4903000" />
-      <workItem from="1679537717047" duration="2580000" />
-      <workItem from="1679581755961" duration="586000" />
-      <workItem from="1679589876950" duration="2688000" />
-      <workItem from="1679623917915" duration="29000" />
-      <workItem from="1679914447512" duration="127000" />
-      <workItem from="1679917709236" duration="7196000" />
-      <workItem from="1679969596229" duration="22000" />
-      <workItem from="1680085493357" duration="1006000" />
-      <workItem from="1680151161148" duration="1482000" />
-      <workItem from="1680163863168" duration="624000" />
-      <workItem from="1680229288608" duration="33000" />
-      <workItem from="1680233778601" duration="827000" />
-      <workItem from="1680763620185" duration="9048000" />
-      <workItem from="1680834040880" duration="82000" />
-      <workItem from="1680838924502" duration="639000" />
-      <workItem from="1680841677809" duration="8851000" />
-      <workItem from="1681788091926" duration="8680000" />
+      <updated>1681822973449</updated>
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="348386000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1618" height="868" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49714285" visible="true" weight="0.2182285" />
-      <window_info id="Structure" order="1" sideWeight="0.50285715" side_tool="true" weight="0.2682927" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50285715" side_tool="true" weight="0.2682927" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3015428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4235624" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.44548872" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32894737" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.328084" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="SonarLint" order="13" weight="0.3380084" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.09627728" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="BPMNPalette" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.05327343" />
-    </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/lession$Lession09.ic" NAME="Lession09 Coverage Results" MODIFIED="1677945437944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>bigo.nguyenthai.algorithm.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateCodeFragment">
-      <expression>
-        <expression-string>char temp = s.charAt(0);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s = s.substring(1);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>String temp = s.substring(0, 1);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.substring(1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>p.next</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sc.nextLine()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sc.next()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sc.nextFloat()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>e1.getAge().intValue() == e2.getAge().intValue()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="setValue">
-      <expression>
-        <expression-string>2 Nguyen Van A 5 6 Le Thi B 8.5 10</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/NodeAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Lession02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Lession01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Lession08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/OrderType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/Singleton.java" />
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Grasshopper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/FlagStatusValid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/FieldMask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Fractions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.net.http/jdk/internal/net/http/common/MinimalFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt://C:/Program Files/Java/jdk-11.0.1!/jdk.accessibility/com/sun/java/accessibility/internal/AccessBridge.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1512">
-          <folding>
-            <element signature="e#0#230844#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5974">
-          <caret line="142" column="30" selection-start-line="142" selection-start-column="30" selection-end-line="142" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="57" column="25" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/concurrent/CompletionStage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="150" column="17" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33512">
-          <caret line="240" column="27" selection-start-line="240" selection-start-column="24" selection-end-line="240" selection-end-column="27" />
-          <folding>
-            <element signature="e#26696#26723#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22377">
-          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/tree/Bst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-774">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/BreadType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/SauceType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-          <folding>
-            <element signature="e#1349#1350#0" expanded="true" />
-            <element signature="e#1391#1392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/VegetableType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/OrderBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/builder/FastFoodOrderBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/SerializedSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/EnumSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/ObjectOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/SingletonSerializedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/thread/CompletableFuture9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/workflow/impl/ActionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BST.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SingletonSerializedTest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="91" selection-start-column="91" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="1354" column="59" selection-start-line="1354" selection-start-column="59" selection-end-line="1354" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="e#2837#2838#0" expanded="true" />
-            <element signature="e#2866#2867#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="993" column="26" selection-start-line="993" selection-start-column="26" selection-end-line="993" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1510">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/singleton/TestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="268" column="10" selection-start-line="268" selection-start-column="4" selection-end-line="268" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/FilterInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="105" column="15" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bigo/nguyenthai/algorithm/oop/TestFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>lession</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
-  <component name="mavenExecuteGoalHistory">
-    <option value="" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

@@ -25,6 +25,7 @@ public class TestFunction {
         System.out.println(elapsedTime + "----" + elapsedTime1);
         //writeBufferFile(fileName, newFile);
 
+        
     }
 
     public static void writeInputStream(String fileName, String newFile){
